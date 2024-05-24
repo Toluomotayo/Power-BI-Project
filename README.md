@@ -1,23 +1,26 @@
-# Airbnb Dashboard 
+# A Comprehensive Survey Analysis of Data Professionals
 
 ## Overview
-This dashboard provides visual insights into Airbnb listings and booking data. It offers a comprehensive view of key metrics and trends to help users make informed decisions related to Airbnb property management, pricing strategies, and market analysis.
+This project provides an in-depth analysis of a survey conducted among data professionals. The analysis used Power BI to uncover insights about the industry, job roles, and trends.
 
-## Features
-+ Interactive Visualizations: Explore dynamic charts, graphs, and maps that enable users to interactively analyze Airbnb data.
-+ Key Metrics: Track important metrics such as booking trends, occupancy rates, average nightly rates, and geographical distribution of listings.
-+ Filtering and Drill-Down: Utilize filtering options to narrow down data by property type, location, availability, and other criteria. Drill-down into specific details for deeper analysis.
-+ Booking Trends: Visualize booking trends over time, including seasonal variations, peak booking periods, and historical performance.
-+ Property Performance: Assess the performance of individual listings based on factors such as ratings, reviews, and booking frequency.
-+ Market Comparison: Compare Airbnb market trends across different locations, property types, and price ranges.
+## Key Features
++ Dashboard Overview: A clear and interactive dashboard showcasing the survey's main findings.
++ Demographic Analysis: Detailed breakdown of survey participants by location, age, and gender.
++ Job Roles and Responsibilities: Insights into various job roles within the data industry and their responsibilities.
++ Industry Trends: Current trends in the data industry, including salary ranges, and job satisfaction.
 
-## Usage
-+ Accessing the Dashboard: Open the Tableau workbook provided in the repository using Tableau Desktop or Tableau Public.
-+ Interacting with Visualizations: Use the interactive features within Tableau to explore the dashboard. Hover over data points for tooltips, apply filters to customize views, and click on elements for detailed insights.
-+  Analyzing Data: Analyze booking patterns, occupancy rates, pricing trends, and other metrics to gain valuable insights into the Airbnb market.
+## Tool Used
+ **Power BI**: For creating interactive and visually appealing dashboards.
 
-## Data Sources
-The dashboard utilizes Airbnb data sourced from Kaggle.
+## Getting Started
+To view the analysis, follow these steps:
++ Download the Power BI file from this repository.
++ Open the file using Power BI Desktop.
++ Interact with the various visualizations to explore the survey results.
+
+## Installation
++ Ensure you have Power BI Desktop installed on your computer. 
++ You can download it from the [official Power BI website](https://powerbi.microsoft.com/desktop/).
 
 ## Contributor
 Tolulope Olarewaju
@@ -25,7 +28,8 @@ Tolulope Olarewaju
 ## License
 
 ## Acknowledgement
-Grateful to AlexTheAnalyst (YouTube) who helped me deepen my understanding of Tableau.
++ Would like to acknowledge AlexTheAnalyst (YouTube) for providing the survey data used in this analysis.
++ Grateful to AlexTheAnalyst (YouTube) who helped me deepen my understanding of Power BI.
 
 ## Contact
 For questions or feedback, please contact olarewajutolulope26@gmail.com
