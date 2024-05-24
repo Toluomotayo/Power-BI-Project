@@ -1,4 +1,4 @@
-# A Comprehensive Survey Analysis of Data Professionals
+# A Comprehensive Survey Analysis of Data Professionals.
 
 ## Overview
 This project provides an in-depth analysis of a survey conducted among data professionals. The analysis used Power BI to uncover insights about the industry, job roles, and trends.
